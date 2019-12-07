@@ -1,0 +1,4 @@
+dataresStemmed: stemmed 过的文本
+/indexStemmed：通过dataresStemmed生成的index
+datares：没有stemmed过的文本
+/index：通过datares生成的index
